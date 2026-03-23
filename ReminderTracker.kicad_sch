@@ -5241,15 +5241,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C24497"
-			(at 156.21 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ab1a5dec-a657-46b9-8eef-1151b4cd1e61")
 		)
@@ -5282,7 +5273,7 @@
 				)
 			)
 		)
-		(property "Value" "WS2812C"
+		(property "Value" "WS2812B"
 			(at 195.834 39.624 0)
 			(effects
 				(font
@@ -5311,15 +5302,6 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 203.2 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C42417624"
 			(at 203.2 33.02 0)
 			(effects
 				(font
@@ -5527,15 +5509,6 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 50.8 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C13828"
 			(at 50.8 63.5 0)
 			(effects
 				(font
@@ -5772,7 +5745,7 @@
 				)
 			)
 		)
-		(property "Value" "WS2812C"
+		(property "Value" "WS2812B"
 			(at 119.634 39.624 0)
 			(effects
 				(font
@@ -5809,15 +5782,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C42417624"
-			(at 127 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "06dba505-2ae2-4351-a727-d447ad537802")
 		)
@@ -5845,9 +5809,9 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "363f58d8-6c7c-4482-856a-544af2407de9")
 		(property "Reference" "J1"
 			(at 186.436 74.93 0)
@@ -5970,15 +5934,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C24497"
-			(at 99.06 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "95fbc674-1cd9-42aa-8a9c-466fae85b60c")
 		)
@@ -6040,15 +5995,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 137.16 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C24497"
 			(at 137.16 24.13 0)
 			(effects
 				(font
@@ -6388,15 +6334,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C13828"
-			(at 50.8 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "a19545ff-35e5-4b16-85ed-8ad4e7885eee")
 		)
@@ -6482,9 +6419,9 @@
 		(at 105.41 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "76ca8776-339b-4694-b520-28b011ec56a4")
 		(property "Reference" "U1"
@@ -6634,15 +6571,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C13828"
-			(at 50.8 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "315a2304-2fea-4bc5-94d9-f4fe6eb675f3")
 		)
@@ -6703,15 +6631,6 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 50.8 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C13828"
 			(at 50.8 104.14 0)
 			(effects
 				(font
@@ -6789,15 +6708,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C24497"
-			(at 118.11 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "93da3e42-00e9-4c74-a997-1c4ae56673cd")
 		)
@@ -6830,7 +6740,7 @@
 				)
 			)
 		)
-		(property "Value" "WS2812C"
+		(property "Value" "WS2812B"
 			(at 176.784 39.624 0)
 			(effects
 				(font
@@ -6859,15 +6769,6 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 184.15 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C42417624"
 			(at 184.15 33.02 0)
 			(effects
 				(font
@@ -7048,7 +6949,7 @@
 				)
 			)
 		)
-		(property "Value" "WS2812C"
+		(property "Value" "WS2812B"
 			(at 138.684 39.624 0)
 			(effects
 				(font
@@ -7077,15 +6978,6 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 146.05 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C42417624"
 			(at 146.05 33.02 0)
 			(effects
 				(font
@@ -7300,15 +7192,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C13828"
-			(at 50.8 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ff56834a-b5bf-449e-9860-107335b8cebe")
 		)
@@ -7472,7 +7355,7 @@
 				)
 			)
 		)
-		(property "Value" "WS2812C"
+		(property "Value" "WS2812B"
 			(at 100.584 39.624 0)
 			(effects
 				(font
@@ -7501,15 +7384,6 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 107.95 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C42417624"
 			(at 107.95 33.02 0)
 			(effects
 				(font
@@ -7726,15 +7600,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C24497"
-			(at 175.26 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "12508d4e-05d6-41d6-8d51-415ce9180a7d")
 		)
@@ -7936,15 +7801,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C24497"
-			(at 194.31 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "634ba265-73fa-423d-a1d1-40200e47af32")
 		)
@@ -8079,15 +7935,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C13828"
-			(at 50.8 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "36aa57e9-db72-4912-86c0-233dfa95aa6b")
 		)
@@ -8120,7 +7967,7 @@
 				)
 			)
 		)
-		(property "Value" "WS2812C"
+		(property "Value" "WS2812B"
 			(at 157.734 39.624 0)
 			(effects
 				(font
@@ -8149,15 +7996,6 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 165.1 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C42417624"
 			(at 165.1 33.02 0)
 			(effects
 				(font
